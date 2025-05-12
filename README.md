@@ -26,6 +26,3 @@ Users can browse available vehicles, view details, and book them for rental by f
 - Add Payment Gateway.
 - Admin Panel to Add/Edit Vehicles.
 
-# 📂 Project Folder Structure
-
-![Folder Structure](src/docs/Vehicle_Rental_Folder_Structure.png)
